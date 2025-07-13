@@ -5,7 +5,7 @@ This project is a comprehensive **Power BI dashboard** designed to analyze bank 
 
 The goal is to uncover trends, monitor KPIs, and assess loan performance to support business decision-making in a data-driven way.
 
-📥 [Download the Power BI file (BANK LOAN.pbix)](BANK%20LOAN.pbix)
+📥 [Download the Power BI file (BANK LOAN.pbit)](BANK LOAN.pbit)
 
 ---
 
