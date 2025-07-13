@@ -5,6 +5,8 @@ This project is a comprehensive **Power BI dashboard** designed to analyze bank 
 
 The goal is to uncover trends, monitor KPIs, and assess loan performance to support business decision-making in a data-driven way.
 
+![Dashboard](BANK LOAN.pbit)
+
 ---
 
 ## 📌 Problem Statement
