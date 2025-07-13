@@ -18,6 +18,7 @@ The analysis addresses the following business questions:
 - 📉 Average Interest Rate
 - 📊 Average Debt-to-Income (DTI) Ratio
 - ### 📸 Dashboard Preview
+![Dashboard Summary](SUMMERY.png)
 
 
 
@@ -34,6 +35,7 @@ The analysis addresses the following business questions:
 - 👷 **Employment Length Distribution** (Bar Chart)
 - 🏦 **Loan Purpose Breakdown** (Bar Chart)
 - 🏠 **Home Ownership Distribution** (Tree Map)
+- ![Dashboard Summary](OVERVIEW.png)
 
 ### 📋 Dashboard 3: Detailed View
 A grid view with all essential metrics to filter and search individual loan records. It serves as a drill-down view for detailed loan analysis.
@@ -87,7 +89,9 @@ You may replace the dataset with any similar structure for practice or showcase.
 
 ## 🖼️ Screenshots
 
-*Add screenshots of the Summary, Overview, and Detail dashboards here if using GitHub or portfolio site.*
+  ![Dashboard Summary](SUMMERY.png)
+- ![Dashboard Summary](OVERVIEW.png)
+- ![Dashboard Details](DETAILS.png)
 
 ---
 
