@@ -17,6 +17,10 @@ The analysis addresses the following business questions:
 - 💵 Total Amount Received
 - 📉 Average Interest Rate
 - 📊 Average Debt-to-Income (DTI) Ratio
+- ### 📸 Dashboard Preview
+
+
+
 
 #### Good vs Bad Loan KPIs:
 - Application percentage breakdown
@@ -33,6 +37,7 @@ The analysis addresses the following business questions:
 
 ### 📋 Dashboard 3: Detailed View
 A grid view with all essential metrics to filter and search individual loan records. It serves as a drill-down view for detailed loan analysis.
+![Dashboard Details](DETAILS.png)
 
 ---
 
